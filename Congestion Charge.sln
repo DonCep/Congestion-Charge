@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congestion Charge", "Congestion Charge.csproj", "{DE39AB3C-46D4-40F0-AE93-094C9DBAACA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE39AB3C-46D4-40F0-AE93-094C9DBAACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE39AB3C-46D4-40F0-AE93-094C9DBAACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE39AB3C-46D4-40F0-AE93-094C9DBAACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE39AB3C-46D4-40F0-AE93-094C9DBAACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E383C65-6952-43E8-9840-E13A32613293}
+	EndGlobalSection
+EndGlobal
